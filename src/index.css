@@ -1,0 +1,11 @@
+@import "tailwindcss";
+body {
+    background-color: black;
+}
+
+body::-webkit-scrollbar {
+    display: none;
+}
+.aside1::-webkit-scrollbar{
+    display: none;
+}
