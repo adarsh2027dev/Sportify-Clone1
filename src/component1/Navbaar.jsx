@@ -14,7 +14,7 @@ const Navbaar = () => {
         {/* Logo */}
         <div className="flex items-center gap-5">
           <img
-            src="./src/assets/images/logo.png"
+            src="public/assets/images/logo.png"
             alt="sportify logo"
             className="w-[45px] h-[40px] ml-4 rounded-[100%]"
           />
